@@ -10,5 +10,7 @@ Carte：一个运行在后头的轻量级服务（基于Jetty的HTTP服务），
 
 1. \[[Kettle\(Pentaho\)实现web方式远程执行job或transformation](http://blog.csdn.net/jianglibo1024/article/details/54835656)\]\([http://blog.csdn.net/jianglibo1024/article/details/54835656\](http://blog.csdn.net/jianglibo1024/article/details/54835656%29\)
 
-   2. http://community.pentaho.com/
+   1. [http://community.pentaho.com/](http://community.pentaho.com/)
+
+2. http://wiki.pentaho.com/display/EAI/Latest+Pentaho+Data+Integration+%28aka+Kettle%29+Documentation 
 
