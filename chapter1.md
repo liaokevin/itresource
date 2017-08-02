@@ -8,9 +8,7 @@ Pan：通Kitchen一样是命令行方式执行器，不过这个仅仅能执行�
 
 Carte：一个运行在后头的轻量级服务（基于Jetty的HTTP服务），通过监听请求来运行任务。使用Carte在Kettle集群分发和协作任务的执行。
 
-
-
 1. \[[Kettle\(Pentaho\)实现web方式远程执行job或transformation](http://blog.csdn.net/jianglibo1024/article/details/54835656)\]\([http://blog.csdn.net/jianglibo1024/article/details/54835656\](http://blog.csdn.net/jianglibo1024/article/details/54835656%29\)
 
-
+   2. http://community.pentaho.com/
 
