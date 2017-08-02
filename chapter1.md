@@ -1,10 +1,6 @@
 PENTAHO，ETL工具的使用
 
-
-
-
-
-Repository
+Repository:可用于存储ktr文件；Repository分为三类：一类使用文件Kettle File Reposity，一类使用Kettle Database Repository数据库，一类使用 Pentaho Repository
 
 **Spoon**集成开发环境。提供用户图形界面化创建和编辑任务和转换定义。同时也能提供执行和调试任务和转换，并且还包括性能监控功能。
 
